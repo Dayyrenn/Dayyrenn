@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Achmad Muhajir 👋
@@ -41,12 +40,3 @@ Based in Bogor, Indonesia 🇮🇩
 | Project | Description | Tech |
 |---|---|---|
 | [**OmpHub**](https://github.com/Dayyrenn/OmpHub) | Run open.mp / SA-MP + MariaDB on Android, no root | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dayyrenn&show_icons=true&hide_border=true" height="150" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayyrenn&layout=compact&hide_border=true" height="150" alt="Top languages">
-</p>
