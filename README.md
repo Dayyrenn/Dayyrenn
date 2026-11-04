@@ -63,6 +63,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -77,6 +78,11 @@ Run open.mp / SA-MP servers and MariaDB directly on Android devices without root
 A multiplayer roleplay server built with Pawn and open.mp, featuring custom gameplay systems, vehicle frameworks, inventory, and database integration.
 
 **Technologies:** Pawn, open.mp, MySQL, PawnPlus, Streamer Plugin
+
+### ⚡ [Toko Elektrik](https://tokoelektrik.vercel.app/shop)
+An e-commerce website for electrical products, featuring product catalogs, shopping cart, checkout, order tracking, and an admin dashboard.
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL, Vercel
 
 ---
 
