@@ -79,11 +79,6 @@ A multiplayer roleplay server built with Pawn and open.mp, featuring custom game
 
 **Technologies:** Pawn, open.mp, MySQL, PawnPlus, Streamer Plugin
 
-### 🌐 Tokohub
-A full-stack e-commerce application with product management, shopping cart, order management, and manual payment verification.
-
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL
-
 ---
 
 ## GitHub Statistics
