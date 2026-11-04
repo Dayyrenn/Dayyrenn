@@ -56,8 +56,6 @@
 
 ![open.mp](https://img.shields.io/badge/open.mp-3498DB?style=flat-square)
 ![SA-MP](https://img.shields.io/badge/SA--MP-2C3E50?style=flat-square)
-![MySQL R42](https://img.shields.io/badge/MySQL_R42-4479A1?style=flat-square)
-![Streamer Plugin](https://img.shields.io/badge/Streamer_Plugin-5865F2?style=flat-square)
 
 ### Tools & Platforms
 
