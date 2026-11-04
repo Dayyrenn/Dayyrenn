@@ -90,10 +90,6 @@ A full-stack e-commerce application with product management, shopping cart, orde
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayyrenn&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayyrenn&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dayyrenn&theme=tokyonight&hide_border=true)
 
 </div>
