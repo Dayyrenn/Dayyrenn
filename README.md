@@ -4,6 +4,8 @@
 
 📍 Bogor, Indonesia 🇮🇩
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-3498DB?style=for-the-badge&logo=vercel&logoColor=white)](https://achmad-portfolio-beta.vercel.app)
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1343137479309660262)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:achmadmuhajir3007@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itsme.boys1)
@@ -34,6 +36,7 @@
 
 ### Frameworks & Libraries
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -43,7 +46,6 @@
 ### Backend & Runtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### Database
@@ -69,15 +71,26 @@
 
 ## Featured Projects
 
+### 🌐 [Personal Portfolio](https://achmad-portfolio-beta.vercel.app)
+
+My personal developer portfolio, showcasing my background, technical skills, featured projects, and development experience.
+
+**Technologies:** Laravel, PHP, Blade, CSS, JavaScript, Vercel
+
 ### 🎮 [OmpHub](https://github.com/Dayyrenn/OmpHub)
+
 Run open.mp / SA-MP servers and MariaDB directly on Android devices without root access.
 
 **Technologies:** Kotlin, Jetpack Compose, Android, MariaDB
 
 ### 🌲 Redwood Open-MP
+
 A multiplayer roleplay server built with Pawn and open.mp, featuring custom gameplay systems, vehicle frameworks, inventory, and database integration.
 
+**Technologies:** Pawn, open.mp, MySQL, PawnPlus
+
 ### ⚡ [Toko Elektrik](https://tokoelektrik.vercel.app/shop)
+
 An e-commerce website for electrical products, featuring product catalogs, shopping cart, checkout, order tracking, and an admin dashboard.
 
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL, Vercel
