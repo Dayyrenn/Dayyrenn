@@ -81,8 +81,6 @@ Run open.mp / SA-MP servers and MariaDB directly on Android devices without root
 
 A multiplayer roleplay server built with Pawn and open.mp, featuring custom gameplay systems, vehicle frameworks, inventory, and database integration.
 
-**Technologies:** Pawn, open.mp, MySQL, PawnPlus
-
 ### ⚡ [Toko Elektrik](https://tokoelektrik.vercel.app/shop)
 
 An e-commerce website for electrical products, featuring product catalogs, shopping cart, checkout, order tracking, and an admin dashboard.
