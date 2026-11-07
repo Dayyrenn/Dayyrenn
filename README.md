@@ -2,7 +2,7 @@
 
 **Software Developer | Game Server Developer | Full-Stack Developer**
 
-🎓 Final-year undergraduate (S1) student, focused on completing my degree while building real-world projects.
+🎓 Senior Informatics Engineering student focused on completing my Bachelor's degree while building real-world projects.
 
 📍 Bogor, Indonesia 🇮🇩
 
