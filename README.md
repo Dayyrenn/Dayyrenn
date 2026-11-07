@@ -1,8 +1,8 @@
 # Hi, I'm Achmad Muhajir 👋
 
-**Software Developer | Game Server Developer | Full-Stack Developer**
+🎓 Final-year undergraduate (S1) student, currently focused on completing my degree while building real-world projects.
 
-- 🎓 Final-year undergraduate (S1) student, currently focused on completing my degree while building real-world projects.
+**Software Developer | Game Server Developer | Full-Stack Developer**
 
 📍 Bogor, Indonesia 🇮🇩
 
