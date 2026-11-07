@@ -2,6 +2,8 @@
 
 **Software Developer | Game Server Developer | Full-Stack Developer**
 
+🎓 Final-year undergraduate (S1) student
+
 📍 Bogor, Indonesia 🇮🇩
 
 [![Portfolio](https://img.shields.io/badge/Personal_Website-3498DB?style=for-the-badge)](https://achmad-portfolio-beta.vercel.app)
@@ -85,7 +87,7 @@ A multiplayer roleplay server built with Pawn and open.mp, featuring custom game
 
 An e-commerce website for electrical products, featuring product catalogs, shopping cart, checkout, order tracking, and an admin dashboard.
 
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL, Vercel
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL
 
 ---
 
